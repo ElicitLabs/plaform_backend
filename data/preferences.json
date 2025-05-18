@@ -1,0 +1,42 @@
+[
+  {
+    "text": "[Provide responses related to entrepreneurship and starting a startup.]",
+    "source": "story_detected",
+    "id": "a5b4484a-0cf3-48b5-9b81-6de2c0ca8db9"
+  },
+  {
+    "text": "[Avoid discussing personal topics such as sex unless explicitly brought up by the user.]",
+    "source": "story_detected",
+    "id": "aafabf70-b49c-4464-bd54-47d443aea9f8"
+  },
+  {
+    "text": {
+      "id": "196171db-aa2c-4845-9894-0e033e4b2958",
+      "text": "war movies",
+      "source": "pattern_detected",
+      "timestamp": "2025-05-17T03:03:41.717220"
+    },
+    "source": "manual_chat",
+    "id": "e4d726c0-e0fc-4ff1-8106-ee9e0a20e9cb"
+  },
+  {
+    "text": {
+      "id": "7739c9c4-1efe-4718-946b-63940373b945",
+      "text": "war movies",
+      "source": "pattern_detected",
+      "timestamp": "2025-05-17T03:04:44.559378"
+    },
+    "source": "manual_chat",
+    "id": "a14e02e4-0c7c-495b-8e78-ce201375b254"
+  },
+  {
+    "text": {
+      "id": "5d42b29c-8fb7-4b5d-9416-5e0a8e3997ea",
+      "text": "i love war movies",
+      "source": "llm_detected",
+      "timestamp": "2025-05-17T03:04:45.086599"
+    },
+    "source": "manual_chat",
+    "id": "983820f7-3c66-4a1f-8778-93006f77ba26"
+  }
+]
